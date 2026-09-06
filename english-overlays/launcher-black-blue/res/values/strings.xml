@@ -7,10 +7,9 @@
     <string name="default_weather_city">Shenzhen</string>
     <string name="default_weather_quality">Good</string>
     <string name="folder_hint_text">Unnamed folder</string>
-    <string name="folder_opened">Folder open, %1$d by %2$d</string>
     <string name="folder_tap_to_rename">Touch to save the new name</string>
     <string name="gadget_setup_text">Set up</string>
-    <string name="home_NaviTip">Navigation is not configured</string>
+    <string name="home_NaviTip">No navigation app installed</string>
     <string name="home_a2dp">Bluetooth music</string>
     <string name="home_avin">AV input</string>
     <string name="home_carsetting">Car settings</string>
@@ -21,7 +20,7 @@
     <string name="home_local_music">Local music</string>
     <string name="home_navi">Navigation</string>
     <string name="home_online_vedio">Online video</string>
-    <string name="home_original_car">Original vehicle system</string>
+    <string name="home_original_car">Factory radio</string>
     <string name="home_phonelink">Phone link</string>
     <string name="home_picture">Images</string>
     <string name="home_right_camera">Right camera</string>
@@ -54,7 +53,6 @@
     <string name="str_no_song_play">Nothing is playing</string>
     <string name="str_play_list">Playlist</string>
     <string name="str_recent_apps">Recent apps</string>
-    <string name="str_recent_calls">Recent calls</string>
     <string name="str_theme_dark_style">Dark style</string>
     <string name="str_theme_day">Day theme</string>
     <string name="str_theme_default">Light style</string>

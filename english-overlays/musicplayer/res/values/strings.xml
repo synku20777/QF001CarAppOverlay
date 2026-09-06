@@ -2,7 +2,6 @@
 <resources>
     <string name="cancel_fav_success">Removed from favourites</string>
     <string name="fav_success">Added to favourites</string>
-    <string name="fileName">File name</string>
     <string name="loading_memory_data">Loading storage…</string>
     <string name="loading_usb_data">Loading music…</string>
     <string name="playlist_loading">Loading playlist…</string>

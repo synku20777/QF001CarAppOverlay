@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="full_screen">Full screen</string>
     <string name="loading_memory_data">Loading storage…</string>
     <string name="loading_usb_data">Loading videos…</string>
     <string name="str_twv_note">Do not watch videos while driving</string>

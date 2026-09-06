@@ -15,7 +15,6 @@
     <string name="eq_page4_driver_mode">Driver</string>
     <string name="eq_page5_low_sound_range">Bass frequency range</string>
     <string name="eq_setting_str">Settings</string>
-    <string name="eq_sir_type_str">Jazz</string>
     <string name="str_restore_default_values">Restore defaults</string>
     <string name="str_user">Custom</string>
 </resources>

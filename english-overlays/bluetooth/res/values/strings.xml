@@ -21,7 +21,7 @@
     <string name="str_bt_call_log">Call history</string>
     <string name="str_bt_callhistorylistisempty">Call history is empty</string>
     <string name="str_bt_contacts_collect">Favourite</string>
-    <string name="str_bt_devices">Bluetooth devices</string>
+    <string name="str_bt_devices">Bluetooth connection</string>
     <string name="str_bt_not_ativated">Bluetooth is not active.\nConnect to the internet to activate it.</string>
     <string name="str_bt_pairedlistisempty">No paired devices</string>
     <string name="str_bt_pan_tip">Use the phone\'s Bluetooth network sharing</string>
@@ -45,7 +45,7 @@
     <string name="str_sync">Download contacts</string>
     <string name="str_sys_bt">System Bluetooth (OBD)</string>
     <string name="str_unknown_contact">Unknown contact</string>
-    <string name="str_ununited">Not paired</string>
+    <string name="str_ununited">Not connected</string>
     <string name="str_value_gain">Gain</string>
     <string name="tips_bt_disabled_when_carplay">Bluetooth controls are unavailable while CarPlay is connected</string>
     <string name="tips_bt_resetting">Resetting Bluetooth…</string>

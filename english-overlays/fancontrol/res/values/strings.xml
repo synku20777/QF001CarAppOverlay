@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="str_fan_control">Fan control</string>
     <string name="str_fan_control_prompt">Automatic mode is enabled. The fan starts when the CPU reaches 50 °C.</string>
 </resources>

@@ -15,6 +15,7 @@ OVERLAYS = ROOT / "english-overlays"
 AUDIT = OVERLAYS / "audit"
 ANDROID = "{http://schemas.android.com/apk/res/android}"
 FORMAT = re.compile(r"%(?!%)(?:\d+\$)?[-+# 0,(]*\d*(?:\.\d+)?[a-zA-Z]")
+DEFAULT_STATUS = "built; device verification pending"
 TARGETS = {
     "launcher-black-blue": ("com.android.launcher.black.blue", "Black/Blue launcher"),
     "backcar": ("com.qf.backcar", "Reverse and auxiliary camera UI"),
@@ -41,8 +42,29 @@ def load_originals() -> dict[tuple[str, str, str], str]:
     return originals
 
 
+def load_ledger() -> dict[tuple[str, str], dict[str, str]]:
+    path = AUDIT / "translations.csv"
+    if not path.is_file():
+        return {}
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        return {(row["package"], row["resource"]): row for row in csv.DictReader(handle)}
+
+
+def format_arguments_changed(original: str, replacement: str) -> bool:
+    original_arguments = FORMAT.findall(original)
+    replacement_arguments = FORMAT.findall(replacement)
+    original_bare = [argument for argument in original_arguments if not re.match(r"%\d+\$", argument)]
+    replacement_bare = [argument for argument in replacement_arguments if not re.match(r"%\d+\$", argument)]
+    return (
+        sorted(original_arguments) != sorted(replacement_arguments)
+        or max(len(original_bare), len(replacement_bare)) > 1
+        and original_bare != replacement_bare
+    )
+
+
 def main() -> int:
     originals = load_originals()
+    existing_ledger = load_ledger()
     errors: list[str] = []
     ledger: list[dict[str, str]] = []
     replacements: dict[tuple[str, str], str] = {}
@@ -77,11 +99,13 @@ def main() -> int:
             replacement = "".join(element.itertext())
             original = originals[key]
             replacements[(slug, name)] = replacement
-            if sorted(FORMAT.findall(original)) != sorted(FORMAT.findall(replacement)):
+            if format_arguments_changed(original, replacement):
                 errors.append(
                     f"{slug}/{name}: format arguments changed from "
                     f"{FORMAT.findall(original)} to {FORMAT.findall(replacement)}"
                 )
+            existing = existing_ledger.get((target_package, name), {})
+            unchanged = existing.get("original") == original and existing.get("replacement") == replacement
             ledger.append(
                 {
                     "package": target_package,
@@ -89,7 +113,7 @@ def main() -> int:
                     "original": original,
                     "replacement": replacement,
                     "context": context,
-                    "status": "built; device verification pending",
+                    "status": existing.get("status", DEFAULT_STATUS) if unchanged else DEFAULT_STATUS,
                 }
             )
 
@@ -114,7 +138,7 @@ def main() -> int:
             original = originals.get((slug, "string", name))
             if original is None:
                 errors.append(f"pilot/{slug}/{name}: resource is absent from the supplied APK")
-            elif sorted(FORMAT.findall(original)) != sorted(FORMAT.findall(replacement)):
+            elif format_arguments_changed(original, replacement):
                 errors.append(f"pilot/{slug}/{name}: format arguments changed")
             if replacements.get((slug, name)) != replacement:
                 errors.append(f"pilot/{slug}/{name}: replacement differs from the full overlay")
