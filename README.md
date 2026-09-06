@@ -2,6 +2,8 @@
 
 This is a tool that automatically creates an overlay for the CarAPP on the QF001 (ROCO K706) Head Unit.
 
+The repository also contains separate English overlays for the active Black/Blue launcher and nine QF apps. See [`english-overlays/README.md`](english-overlays/README.md) for their build, staged installation, verification, and rollback workflow. The original CarApp files and commands below remain unchanged.
+
 ## Usage
 
 ### 1. Preparation

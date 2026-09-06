@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sp_app_pkg_key">com.qf.carsettings-com.qf.carsettings.activity.NavigationStartupActivity#com.qf.bluetooth-com.qf.bluetooth.BluetoothActivity#com.qf.musicplayer-com.qf.musicplayer.ui.MainActivity#com.android.fmradio-com.android.fmradio.FmMainActivity#com.android.settings-com.android.settings.Settings#com.android.settings-com.android.settings.Settings#com.zjinnova.zlink-com.zjinnova.android.zlink.features.main.MainActivity#com.qf.carsettings-com.qf.carsettings.activity.CarSettingsActivity</string>
+</map>

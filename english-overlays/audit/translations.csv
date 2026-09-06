@@ -1,0 +1,395 @@
+﻿package,resource,original,replacement,context,status
+com.android.launcher.black.blue,application_name,Black Blue Launcher,Black/Blue Launcher,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,car_speed_gps_correction,GPS speed correction (range -10 ~ 10):,GPS speed correction (-10 to +10):,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,cloudy,多云,Cloudy,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,default_weather,sunny,Sunny,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,default_weather_city,ShenZhen,Shenzhen,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,default_weather_quality,good,Good,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,folder_hint_text,Unnamed Folder,Unnamed folder,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,folder_opened,"Folder opened, %1$d by %2$d","Folder open, %1$d by %2$d",Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,folder_tap_to_rename,Touch to save rename,Touch to save the new name,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,gadget_setup_text,Setup,Set up,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_NaviTip,No Navi,Navigation is not configured,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_a2dp,BT Music,Bluetooth music,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_avin,AVIN,AV input,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_carsetting,CarSettings,Car settings,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_download,DownLoad,Downloads,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_filebrowser,FileBrowser,Files,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_gps,By GPS,GPS,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_loading,Loading...,Loading…,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_local_music,Local Music,Local music,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_navi,Navi,Navigation,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_online_vedio,Online Vedio,Online video,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_original_car,Radio multimedia,Original vehicle system,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_phonelink,Mobile Link,Phone link,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_picture,Image,Images,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_right_camera,Right Camera,Right camera,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_swc,SWC,Steering-wheel controls,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_unknow,unknown,Unknown,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,home_userguide,UserGuide,User manual,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,image_load_fail,Coudn't load image,Couldn\'t load image,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,link_folder_name,网页链接,Web links,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,one_video_widget,"Only one ""%s"" is allowed in Home screen.",Only one “%s” widget is allowed on the Home screen.,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,orientation,Cannot detect orientation.,Couldn\'t detect the screen orientation.,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,original_car_system,Original Car,Original vehicle system,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,overcase,转晴,Clearing,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,permlab_install_shortcut,install shortcuts,Add Home shortcuts,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,permlab_read_settings,read Home settings and shortcuts,Read Home settings and shortcuts,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,permlab_uninstall_shortcut,uninstall shortcuts,Remove Home shortcuts,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,permlab_write_settings,write Home settings and shortcuts,Change Home settings and shortcuts,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,rain,雨,Rain,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,rearrange_app,Rearrange app,Rearrange apps,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,scale_image,Scale ImageView,Scale image,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,snow,雪,Snow,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_app_widget_3,Quick Application -3 Grid,3-app shortcut grid,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_app_widget_6,Quick application-6 Grid,6-app shortcut grid,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_cur_pkg_playing,is currently playing,Playing,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_edit_widget,Edit plugin,Edit widget,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_first_setnavi,Please set default navigation for first use,Select a default navigation app before first use,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_freeform_type_select,Freeform display type selection,Floating-window display,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_latitude,LAT,Latitude,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_longitude,LONG,Longitude,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_longpress_to_move,Long press to drag and sort,"Touch and hold, then drag to reorder",Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_no_song_play,No song playback,Nothing is playing,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_play_list,PlayList,Playlist,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_recent_apps,RecentApps,Recent apps,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_recent_calls,Recent contacts,Recent calls,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_dark_style,Dark Style,Dark style,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_day,Day Theme,Day theme,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_default,Light Style,Light style,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_night,Night Theme,Night theme,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_setting,Set the style as,Select a style,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_theme_translue,Transparent Style,Transparent style,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,str_weather_info_refresh,Get Weather in...,Updating weather…,Black/Blue launcher,built; device verification pending
+com.android.launcher.black.blue,yin,阴,Overcast,Black/Blue launcher,built; device verification pending
+com.qf.backcar,backTips,Please be aware of your surroundings,Check your surroundings,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,camera_no_signal,NO SIGNAL!,No signal,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_format,Please choose the suitable input format,Select the correct video input format,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_next,Next format,Try next format,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_select_over,The input format has been selected and will take effect next time it is used,The selected input format will be used next time.,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_start_tips,Clicking 'yes' to start the input signal format detection.,Select Yes to detect the input signal format.,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_start_tips2,Clicking 'yes' will start inputting signal format detection after exiting reverse.,Select Yes to detect the input signal format after reverse gear is disengaged.,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,choose_start_title,Choose format standards,Detect video input format,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,ecu,Car PC,Vehicle system,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,front_app_name,Front Camera,Front camera,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,rgbSettings,RGB Settings,Picture settings,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,safebelt,Safebelt,Seat belt,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,str_hue,Chroma,Hue,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,str_prompt,Tip,Notice,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,str_video,Reversing Video Settings,Reverse camera settings,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.backcar,traceSettings,Trace Settings,Parking guideline settings,Reverse and auxiliary camera UI,built; device verification pending
+com.qf.bluetooth,bt_connected,connected,Connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_connecting,connecting...,Connecting…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_disconnected,disconnected,Disconnected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_disconnecting,disconnecting...,Disconnecting…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_not_connected,matching with this device,Pairing with this device,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_paired,"paired, not connected","Paired, not connected",Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_pairing,pairing...,Pairing…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_connect_fail,connection failed,Connection failed,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_connected,connected,Connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_connecting,connecting,Connecting,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_nomedia,media audio not connected,Media audio is not connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_nopbap,phone book not connected,Contacts are not connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_nophone,phone audio not connected,Phone audio is not connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_paired,paired,Paired,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,bt_status_unpair,unpaired,Not paired,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_auto_answer,Auto answer,Automatic answer,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_auto_connect,Auto connect,Automatic connection,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bluetooth_music,Bluetooth Music,Bluetooth music,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_call_log,Call logs,Call history,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_callhistorylistisempty,History is empty!,Call history is empty,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_contacts_collect,Favorite,Favourite,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_devices,Bluetooth connectivity,Bluetooth devices,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_not_ativated,"Bluetooth is not activated.
+
+please connect to the internet to activate bluetooth.",Bluetooth is not active.\nConnect to the internet to activate it.,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_pairedlistisempty,The pairing list is empty!,No paired devices,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_pan_tip,Using the phone's Bluetooth shared network,Use the phone\'s Bluetooth network sharing,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_phone,Bluetooth call,Bluetooth calls,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_bt_reset,BT Reset,Reset Bluetooth,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_call,call...,Call,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_clear_called,Clear called,Clear call history,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_close,close,Close,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_confirm,confirm,Confirm,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_dialing,dialing,Dialling…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_download,downloading phonebook,Downloading contacts…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_empty,Phonebook list is empty!,Contact list is empty,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_income,income,Incoming calls,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_link,connect/disconnect,Connect / disconnect,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_music_value_gain,music value gain,Bluetooth music gain,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_open,open,Open,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_pin_code,Pin code,PIN code,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_pls_reconnect_bt,Please reconnect Bluetooth to make it work,Reconnect Bluetooth to apply this setting,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_reset,reset,Reset,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_switch,switch,Switch,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_sync,Download,Download contacts,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_sys_bt,System Bluetooth(OBD Feature),System Bluetooth (OBD),Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_unknown_contact,unknown contact,Unknown contact,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_ununited,ununited,Not paired,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,str_value_gain,value gain,Gain,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,tips_bt_disabled_when_carplay,Do not operate bluetooth when carplay connected,Bluetooth controls are unavailable while CarPlay is connected,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,tips_bt_resetting,Bluetooth is resetting...,Resetting Bluetooth…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,tips_wifi_open,Disconnect BT Connection before Opening WIFI,Disconnect Bluetooth before turning on Wi-Fi,Bluetooth phone and audio UI,built; device verification pending
+com.qf.bluetooth,wait_bt_on,Waiting BT On...,Waiting for Bluetooth…,Bluetooth phone and audio UI,built; device verification pending
+com.qf.carsettings,str_360_camera_calibration_type,360 reverse calibration mode,360° camera calibration mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_360_camera_func,360 reverse function,360° camera,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_360_camera_mode,360 reverse mode,360° camera mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_amp_control,Power amplifier control switch,Amplifier control,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_android_upgrade,System Upgrade,System update,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_app_list,Application list,App list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_app_name,Car Settings,Car settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_app_select,Application selection,Select app,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_app_select_hint,	Restart is required after setting to work,Restart the system to apply this setting,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_audio_source,Audio source boot start,Audio source at startup,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_auto_upgrade_prompt1,The system will automatically upgrade:,The system will install this update:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_auto_upgrade_prompt2,"
+Do not perform other operations! After the upgrade is complete, the system will restart!",Do not perform any other operations. The system will restart when the update is complete.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_aux_volume,Aux volume,AUX volume,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_back_track,Reverse track,Reversing trajectory,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_foresight_time,Front camera display duration,Front camera display time,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_foresight_time_10s,10s,10 s,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_foresight_time_15s,15s,15 s,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_foresight_time_5s,5s,5 s,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_func,Reverse function,Reverse camera,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_mirror,Reverse video mirror,Mirror reverse camera image,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_mode,Reverse mode,Reverse camera mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_mute,Reverse mute,Mute while reversing,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_rgb,Reverse rgb,Reverse camera picture,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_ruler,Reverse ruler,Parking guidelines,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backcar_set,Reverse,Reverse camera,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backlight_max,Max Value(33-100),Maximum value (33–100),Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backlight_min,Min value(0-50),Minimum value (0–50),Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backlight_rang,Configuration range value,Configuration range,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_backlight_set,Backlight set,Backlight settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_battery_power,Battery power of the original vehicle,Vehicle battery voltage,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_boot_default_volume,Default volume,Default startup volume,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_bootanimation_auto_upgrade_prompt,boot animation,Boot animation,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_brake,Driving Ban Video,Block video while driving,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_btn_config,Config,Configure,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_canmcu,CanMcu:,CAN MCU:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_car_model,Car model,Vehicle model,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_clear_all_data,Wipe all data?,Erase all data?,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_clear_user_data,"When the system is upgraded, clear user data",Erase user data during the system update,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_close_use_sleep_mode,Close use sleep mode,Disable sleep mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_color_picker_set,Colorful Light Picker,Button illumination colour,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_color_picker_switch,Colorful Light Switch,Button illumination,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dark_mode_auto_switch,Automatic switching of dark mode,Automatic dark mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dark_mode_follow_headlights,Dark mode follows changes in headlights,Use headlights to control dark mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_day_brightness_time,Daytime point,Day mode start time,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_day_brightness_value,Default backlight for daytime,Default daytime brightness,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_device_interface_title,Interface Definition,Interface assignment,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_device_power_title,Power Definition,Power assignment,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_disable_checksum,Cancel the checksum detection of system upgrade files!,Skip system update file verification,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_display_dark_mode,Dark Mode,Dark mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_display_item_set,Display,Display,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_display_set,Display set,Display settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_downloading_mcu_file,Downloading mcu file!,Downloading MCU file…,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dpi,Dpi:,DPI:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dvr_app_list,DVR application list,DVR app list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dvr_use_usb1,USB 6Pin,USB 6-pin,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_dvr_use_usb2,USB 4Pin,USB 4-pin,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_enable_checksum,Check the upgrade file for corruption,Verify the update file for corruption,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_exchange_key,Switch knob 1 and 2,Swap knobs 1 and 2,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_export_extend_set,Export FactorySet,Export factory settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_export_finish,Export completed,Export complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_export_prompt,"Export the configuration to USB disk, do not power off or pull out the USB disk!",Export the configuration to the USB drive. Do not turn off the unit or remove the drive.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_export_tp_success,Export TPConfig successfully!,TP configuration exported successfully,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_factory_reset,Factory Reset,Factory reset,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_fiber_coax,Fiber coax,Fibre coaxial,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_file_copy_finish,File copy finished,File copy complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_float_ball,Quick ball,Floating shortcut,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_float_video,Video floating play,Floating video,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_front_mirror,Front camera mirror,Mirror front camera image,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_general_colorful_lights_title,Colorful lights settings,Button illumination settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_general_default_app_title,Default software,Default apps,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_general_set,General,General settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_Horizontal,Double finger lateral sliding,Two-finger horizontal swipe,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_allapps,Return to the allapps,Open all apps,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_brightness,Control brightness,Adjust brightness,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_call_accept,Answer the call,Answer call,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_down_edge_fling,Slide the bottom edge of the screen,Swipe from the bottom edge,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_fling_down,Double finger slide down,Two-finger swipe down,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_fling_left,Double finger slide left,Two-finger swipe left,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_fling_right,Double finger slide right,Two-finger swipe right,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_fling_up,Double finger slide up,Two-finger swipe up,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_left_edge_fling,Slide the left edge of the screen,Swipe from the left edge,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_mutectl,Mute control,Mute,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_next_song,Next song,Next track,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_none,Not selected,None,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_onoff,Gesture touch switch,Gesture controls,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_open,Start-up,Enable,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_pre_song,Previous song,Previous track,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_right_edge_fling,Slide the right edge of the screen,Swipe from the right edge,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_scale,Double finger zoom in and out,Two-finger pinch,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_title,Action selection,Select action,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_vertical,Double finger longitudinal sliding,Two-finger vertical swipe,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_vol,Control volume,Adjust volume,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_vol_add,Volume+,Volume up,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_gesture_vol_reduce,Volume-,Volume down,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_hicar_support,Zlink Hicar Enable,Enable Zlink HiCar,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_hint_logo,Boot logo set,Boot logo settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_hint_panel,Panel key set,Panel button settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_hint_save,Save Finish,Save complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_import_boot_animation,Import Boot Animation,Import boot animation,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_import_extend_set,Import FactorySet,Import factory settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_import_finish,Import complete,Import complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_import_prompt,"Import the configuration to the device, do not power off or pull out the USB disk!",Import the configuration to the unit. Do not turn off the unit or remove the USB drive.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_install_unknown_applications,Allow installation of applications from unknown sources,Allow apps from unknown sources,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_key_study,Steering wheel study,Steering-wheel button learning,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_knob_set1,Knob Set1,Knob 1 settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_knob_set2,Knob Set2,Knob 2 settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_language_select,Language selection,Language,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_launcher_select,Launcher selection,Launcher,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_launcher_select_success,Launcher selection success!,Launcher selected successfully,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_list_left_double_key,Double key(left),Double left button,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_list_leftkey1,Left key(768X1280),Left button (768 × 1280),Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_list_right_double_key,Double key(right),Double right button,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_auto_upgrade_prompt,boot logo,Boot logo,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_hint,"Updating, do not power off!",Updating. Do not turn off the unit.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_more_big_tip,Boot Logo within 8M!,Boot logo must be smaller than 8 MB,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_ok,update logo,Update logo,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_set,Logo set,Logo settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_update_finished,The boot logo update is complete!,Boot logo update complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_logo_upgrading,Update boot logo!,Updating boot logo…,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_cancel,cancel,Cancel,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_confirm,confirm,Confirm,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_copy_complete,Copy complete,Copy complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_exit,exit,Exit,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_is_copy_map,Copy map or not,Copy navigation maps?,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_map_other,"Automatic map copying is in progress, do not do anything else",Copying navigation maps. Do not perform any other operations.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_cur_version,Current version of MCU:,Current MCU version:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade,MCU Upgrade,MCU update,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_error,MCU upgrade file does not exist！,MCU update file not found,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_incompatibility,MCU upgrade file does not fit current platform!,The MCU update file is incompatible with this platform,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_prompt,Updating mcu，Do not carry out other operations or power off！,Updating the MCU. Do not perform any other operations or turn off the unit.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_success,Upgrade Finish,MCU update complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_to_higher_version,Please upgrade the higher version MCU!,Select a newer MCU version,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_mcu_upgrade_version,Upgrade version of MCU:,MCU update version:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi,Navi,Navigation,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi_boot_start,Navi boot start,Start navigation at boot,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi_maps_list,Navi map list,Navigation app list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi_remix,Navi remix,Mix navigation audio,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi_remix_ratio,Navi remix ratio,Navigation audio mix level,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_navi_volume,Navi volume,Navigation volume,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_night_brightness_time,Night time point,Night mode start time,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_night_brightness_value,Default backlight for dark nights,Default night-time brightness,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_no_remind,No remind,Do not remind me,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_not_config_file,The config file not exist,Configuration file not found,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_not_connected,Not Connected,Not connected,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_not_upgrade_tip,Need a higher version of the TP firmware can be upgraded,A newer TP firmware version is required,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_not_usb,No USB device connection,No USB device connected,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_not_usb_device,Not USB devices,No USB devices,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_now_calculate,counting file size，please wait...,Calculating file size…,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_now_copying,Upgrading，please wait...,Updating…,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_obd_app_list,OBD application list,OBD app list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_online_upgrade,Online Upgrade,Online update,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_open_use_sleep_mode,Open use sleep mode,Enable sleep mode,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_origin_upgrade_file_checksum,Original upgrade file CheckSum:,Original update file checksum:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_panel_conn_wheel,Panel connection wheel,Panel connection selector,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_panel_key,Screen physical button study,Panel button learning,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_phone_link_app,Phone Link APP,Phone-link app,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_phone_link_app_prompt,This function only takes effect after restarting the system,Restart the system to apply this setting,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_power_vol,Power volume,Startup volume,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_qsv_canbus_settings,Canbus settings,CAN bus settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_qsv_radio_colorful_lights,Colorful lights,Button illumination,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_qsv_upgrade_detection,Upgrade detection,Check for updates,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_radio_area_select,Radio area selection,Radio region,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_rds_switch,Radio RDS switch,RDS,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_restart,Restart Now,Restart now,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_right_mirror,Right camera mirror,Mirror right camera image,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_right_switch,Right camera switch,Right camera,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_ringtone_select,Ringtone select,Select ringtone,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_save_log_switch,Save log switch,Save logs,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_screen_brightness,Screen Brightness,Screen brightness,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_setCarMode_unKnown,unKnown Car Select,Unknown vehicle selection,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_sim_state_title,Sim state,SIM status,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_sim_state_use_date,Enable time:,Activation date:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_sleep_off,Do not sleep,Sleep mode off,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_sleep_whitelist_hint,"You can choose to add a third-party app to the sleep whitelist, and the app will not be killed during sleep, which may cause sleep failure",Apps on this list remain active while the unit sleeps. This may prevent the unit from entering sleep mode.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_soft_decorder,Media files decorded by Soft,Software media decoding,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_sound_channel_gain,Channel gain set,Channel gain,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_support_split,Support split screen,Enable split screen,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_auto_upgrade_prompt,Updating system，Do not carry out other operations or power off！,Updating the system. Do not perform any other operations or turn off the unit.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_cur_version,Current version of system:,Current system version:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_ota_not_need_upgrade,"The system is up to date, no need to upgrade!",The system is up to date,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_ota_upgrade,"There is new software to update 
+ whether to update now",A system update is available. Update now?,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_upgrade_file_checksum,System upgrade file CheckSum:,System update file checksum:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_upgrade_prompt,Select the upgrade file to start the upgrade,Select an update file to begin,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_system_upgrade_title,Upgrade Settings,Update settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_theme_set,Car settings theme,Car settings theme,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_touch_area_key,Screen touch button study,Touch-button learning,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_tp_auto_upgrade_desc,"A newer TP firmware version is detected, the TP firmware will be automatically upgraded, please do not perform other operations!",Newer TP firmware was detected. Do not perform any other operations while it is installed.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_tp_auto_upgrade_success,TP firmware automatic upgrade succeeded,TP firmware update complete,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_tp_auto_upgrade_title,TP firmware upgrade automatically,Automatic TP firmware update,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_tp_version,TP Version:,TP version:,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_tpms_app_list,TPMS application list,TPMS app list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_trans_app,Video output APP,Video output app,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_trans_app_list,Optional application list,Available apps,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_trans_switch_off,Transfer off,Video output off,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_trans_switch_on,Transfer on,Video output on,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_ubootdata_auto_upgrade_prompt,screen parameters,Screen parameters,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_update_3s_reboot,"Successful upgrade, restart machine in 3 seconds！",Update complete. The unit will restart in 3 seconds.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_update_fail,Update Fail!,Update failed,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_upgrade_file,upgrade file,Update file,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_upgrade_file_checksum_prompt,"The upgrade file is being checked by CheckSum, please wait...",Verifying the update file checksum…,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_upgrade_file_nonexist,No upgrade files available were detected！,No update file detected,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_upgrade_tp,Verify whether to upgrade TP firmware,Update TP firmware?,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_usb_interface_for_dvr,USB interface for DVR,DVR USB port,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_usb_netd,USB Ethernet Enable,USB Ethernet,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_usb_set,USB set,USB settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_voice_app_list,Voice application list,Voice-control app list,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_voice_default_app,Default voice,Default voice-control app,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_voice_set,Voice,Voice control,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_voice_wakeup,Voice wakeup,Voice activation,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_voice_wakeup_word,Voice wakeup word,Voice activation phrase,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_volume_compensated_control_close,Close,Off,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,str_word_requirement,The phonetic wake-up words you set should be between 2 and 5 Chinese characters.,The voice activation phrase must contain 2–5 Chinese characters.,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,string_logo,Boot Logo,Boot logo,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,string_open_webview,Reversing Settings,Reverse camera settings,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,string_set_logo_fial,Set Boot Logo Fial!,Couldn\'t set the boot logo,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.carsettings,string_set_logo_suceess,Set Boot Logo Suceess!,Boot logo set successfully,Head-unit and vehicle settings UI,built; device verification pending
+com.qf.fancontrol,str_fan_control,Fan control,Fan control,Cooling-fan control UI,built; device verification pending
+com.qf.fancontrol,str_fan_control_prompt,"The automatic mode is on. When the CPU temperature reaches 50 ℃, the fan will turn on.",Automatic mode is enabled. The fan starts when the CPU reaches 50 °C.,Cooling-fan control UI,built; device verification pending
+com.qf.keystudy,str_app_name,KeyStudy,Steering-wheel controls,Steering-wheel button learning UI,built; device verification pending
+com.qf.keystudy,str_save_success,Save success,Button assignment saved,Steering-wheel button learning UI,built; device verification pending
+com.qf.keystudy,str_study_prompt,Please select your study key,Select the function to assign,Steering-wheel button learning UI,built; device verification pending
+com.qf.keystudy,str_title_prompt,Please long press the key on your car,Press and hold a steering-wheel button,Steering-wheel button learning UI,built; device verification pending
+com.qf.musicplayer,cancel_fav_success,remove from collection success,Removed from favourites,Local music player UI,built; device verification pending
+com.qf.musicplayer,fav_success,collect success,Added to favourites,Local music player UI,built; device verification pending
+com.qf.musicplayer,fileName,File name,File name,Local music player UI,built; device verification pending
+com.qf.musicplayer,loading_memory_data,"Loading memory data 
+Please wait...",Loading storage…,Local music player UI,built; device verification pending
+com.qf.musicplayer,loading_usb_data,"Loading music data 
+Please wait...",Loading music…,Local music player UI,built; device verification pending
+com.qf.musicplayer,playlist_loading,Loading playback list...,Loading playlist…,Local music player UI,built; device verification pending
+com.qf.musicplayer,unknown_data,No audio file found,No audio files found,Local music player UI,built; device verification pending
+com.qf.musicplayer,unknown_udisk,Unnamed Udisk,Unnamed USB drive,Local music player UI,built; device verification pending
+com.qf.panelkeystudy,app_name,panel study,Panel button learning,Panel button learning UI,built; device verification pending
+com.qf.panelkeystudy,save_success,Save success,Button assignment saved,Panel button learning UI,built; device verification pending
+com.qf.soundeffect,eq_bottom_str_bass_enhancement,Bass Enhancement,Bass enhancement,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_bottom_str_low_filter,Bass filtering,Bass filter,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_bottom_str_sound_setting,Sound field setting,Sound stage,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_dialog_setting_loudness_str,LOUDNESS,Loudness,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page2_back_left,Back left,Rear left,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page2_back_right,Back right,Rear right,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page2_loudness_off,Surround sound is off,Surround sound off,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page2_sound_back_strength,Back speaker surround enhancement,Rear surround level,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page2_sound_space,Surrounding space,Surround width,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page4_all_car_mode,Full car mode,All seats,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page4_assistant_driver_mode,Co-pilot mode,Front passenger,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page4_back_car_mode,Rear car mode,Rear seats,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page4_driver_mode,Driver mode,Driver,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_page5_low_sound_range,Bass range,Bass frequency range,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_setting_str,Set up,Settings,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,eq_sir_type_str,Jazz,Jazz,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,str_restore_default_values,Restore default values,Restore defaults,DSP and sound settings UI,built; device verification pending
+com.qf.soundeffect,str_user,Customize,Custom,DSP and sound settings UI,built; device verification pending
+com.qf.videoplayer,full_screen,Full screen,Full screen,Local video player UI,built; device verification pending
+com.qf.videoplayer,loading_memory_data,"Loading memory data 
+Please wait...",Loading storage…,Local video player UI,built; device verification pending
+com.qf.videoplayer,loading_usb_data,"Loading video data 
+Please wait...",Loading videos…,Local video player UI,built; device verification pending
+com.qf.videoplayer,str_twv_note,Do not watch video while driving!,Do not watch videos while driving,Local video player UI,built; device verification pending
+com.qf.videoplayer,unknown_data,No video file found,No video files found,Local video player UI,built; device verification pending
+com.qf.videoplayer,unknown_udisk,Unnamed Udisk,Unnamed USB drive,Local video player UI,built; device verification pending

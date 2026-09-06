@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="RadioView_name_key"></string>
+    <int name="RadioView_band_key" value="1" />
+    <string name="RadioView_freq_key">103.00</string>
+</map>

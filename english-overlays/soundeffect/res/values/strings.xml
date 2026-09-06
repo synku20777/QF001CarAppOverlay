@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eq_bottom_str_bass_enhancement">Bass enhancement</string>
+    <string name="eq_bottom_str_low_filter">Bass filter</string>
+    <string name="eq_bottom_str_sound_setting">Sound stage</string>
+    <string name="eq_dialog_setting_loudness_str">Loudness</string>
+    <string name="eq_page2_back_left">Rear left</string>
+    <string name="eq_page2_back_right">Rear right</string>
+    <string name="eq_page2_loudness_off">Surround sound off</string>
+    <string name="eq_page2_sound_back_strength">Rear surround level</string>
+    <string name="eq_page2_sound_space">Surround width</string>
+    <string name="eq_page4_all_car_mode">All seats</string>
+    <string name="eq_page4_assistant_driver_mode">Front passenger</string>
+    <string name="eq_page4_back_car_mode">Rear seats</string>
+    <string name="eq_page4_driver_mode">Driver</string>
+    <string name="eq_page5_low_sound_range">Bass frequency range</string>
+    <string name="eq_setting_str">Settings</string>
+    <string name="eq_sir_type_str">Jazz</string>
+    <string name="str_restore_default_values">Restore defaults</string>
+    <string name="str_user">Custom</string>
+</resources>

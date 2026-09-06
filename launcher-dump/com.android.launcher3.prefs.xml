@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="initDefaultWallpaper" value="false" />
+    <boolean name="launcher.first_load_complete" value="true" />
+    <boolean name="UPGRADED_FROM_OLD_DATABASE" value="false" />
+</map>

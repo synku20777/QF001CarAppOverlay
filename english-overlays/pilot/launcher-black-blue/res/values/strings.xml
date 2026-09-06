@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_carsetting">Car settings</string>
+    <string name="home_navi">Navigation</string>
+    <string name="home_picture">Images</string>
+    <string name="home_userguide">User manual</string>
+</resources>

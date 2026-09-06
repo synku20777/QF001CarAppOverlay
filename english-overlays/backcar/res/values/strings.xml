@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backTips">Check your surroundings</string>
+    <string name="camera_no_signal">No signal</string>
+    <string name="choose_format">Select the correct video input format</string>
+    <string name="choose_next">Try next format</string>
+    <string name="choose_select_over">The selected input format will be used next time.</string>
+    <string name="choose_start_tips">Select Yes to detect the input signal format.</string>
+    <string name="choose_start_tips2">Select Yes to detect the input signal format after reverse gear is disengaged.</string>
+    <string name="choose_start_title">Detect video input format</string>
+    <string name="ecu">Vehicle system</string>
+    <string name="front_app_name">Front camera</string>
+    <string name="rgbSettings">Picture settings</string>
+    <string name="safebelt">Seat belt</string>
+    <string name="str_hue">Hue</string>
+    <string name="str_prompt">Notice</string>
+    <string name="str_video">Reverse camera settings</string>
+    <string name="traceSettings">Parking guideline settings</string>
+</resources>

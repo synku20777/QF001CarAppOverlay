@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_android_upgrade">System update</string>
+    <string name="str_app_name">Car settings</string>
+    <string name="str_general_set">General settings</string>
+    <string name="str_navi">Navigation</string>
+</resources>

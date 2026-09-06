@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.launcher.black.blue.english.overlay"
+    android:versionCode="2"
+    android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="29" />
+    <overlay android:priority="1" android:targetPackage="com.android.launcher.black.blue" />
+    <application android:allowBackup="false" android:hasCode="false" android:label="Black/Blue Launcher English overlay" />
+</manifest>

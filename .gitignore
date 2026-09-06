@@ -1,1 +1,6 @@
 *.apk
+.compiler/jre/
+scratch/
+.build-overlays/
+dist/
+__pycache__/

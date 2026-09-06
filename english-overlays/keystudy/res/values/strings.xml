@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_app_name">Steering-wheel controls</string>
+    <string name="str_save_success">Button assignment saved</string>
+    <string name="str_study_prompt">Select the function to assign</string>
+    <string name="str_title_prompt">Press and hold a steering-wheel button</string>
+</resources>

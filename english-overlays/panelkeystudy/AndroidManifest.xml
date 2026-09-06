@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.qf.panelkeystudy.english.overlay" android:versionCode="2" android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="29" />
+    <overlay android:priority="1" android:targetPackage="com.qf.panelkeystudy" />
+    <application android:allowBackup="false" android:hasCode="false" android:label="Panel Key Study English overlay" />
+</manifest>
