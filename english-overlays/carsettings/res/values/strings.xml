@@ -29,7 +29,7 @@
     <string name="str_backlight_min">Minimum value (0–50)</string>
     <string name="str_backlight_rang">Configuration range</string>
     <string name="str_backlight_set">Backlight settings</string>
-    <string name="str_battery_power">Vehicle battery voltage</string>
+    <string name="str_battery_power">Original vehicle battery level</string>
     <string name="str_boot_default_volume">Default startup volume</string>
     <string name="str_bootanimation_auto_upgrade_prompt">Boot animation</string>
     <string name="str_brake">Block video while driving</string>
@@ -49,7 +49,6 @@
     <string name="str_device_power_title">Power assignment</string>
     <string name="str_disable_checksum">Skip system update file verification</string>
     <string name="str_display_dark_mode">Dark mode</string>
-    <string name="str_display_item_set">Display</string>
     <string name="str_display_set">Display settings</string>
     <string name="str_downloading_mcu_file">Downloading MCU file…</string>
     <string name="str_dpi">DPI:</string>
@@ -100,7 +99,6 @@
     <string name="str_hint_save">Save complete</string>
     <string name="str_import_boot_animation">Import boot animation</string>
     <string name="str_import_extend_set">Import factory settings</string>
-    <string name="str_import_finish">Import complete</string>
     <string name="str_import_prompt">Import the configuration to the unit. Do not turn off the unit or remove the USB drive.</string>
     <string name="str_install_unknown_applications">Allow apps from unknown sources</string>
     <string name="str_key_study">Steering-wheel button learning</string>
@@ -121,7 +119,6 @@
     <string name="str_logo_upgrading">Updating boot logo…</string>
     <string name="str_map_cancel">Cancel</string>
     <string name="str_map_confirm">Confirm</string>
-    <string name="str_map_copy_complete">Copy complete</string>
     <string name="str_map_exit">Exit</string>
     <string name="str_map_is_copy_map">Copy navigation maps?</string>
     <string name="str_map_other">Copying navigation maps. Do not perform any other operations.</string>
@@ -184,7 +181,6 @@
     <string name="str_system_upgrade_file_checksum">System update file checksum:</string>
     <string name="str_system_upgrade_prompt">Select an update file to begin</string>
     <string name="str_system_upgrade_title">Update settings</string>
-    <string name="str_theme_set">Car settings theme</string>
     <string name="str_touch_area_key">Touch-button learning</string>
     <string name="str_tp_auto_upgrade_desc">Newer TP firmware was detected. Do not perform any other operations while it is installed.</string>
     <string name="str_tp_auto_upgrade_success">TP firmware update complete</string>
